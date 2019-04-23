@@ -1,5 +1,3 @@
-# belajar
-Belajar balikin akun instagram
 
 '''
 TODO LIST:
